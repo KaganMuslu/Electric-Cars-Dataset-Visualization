@@ -6,7 +6,7 @@ Projeyi gerçekleştirirken şu adımları izledim:
 
 1) İlk adımda, "Cheapestelectriccars-EVDatabase.csv" adlı veri dosyası <a href= "https://www.kaggle.com/datasets/kkhandekar/cheapest-electric-cars">Kaggle</a> adlı siteden indirilmiş ve projeye entegre edilmiştir.
 2) Veri dosyasının yapısını <a href= "https://pandas.pydata.org">pandas</a> kütüphanesi yardımıyla inceleyerek, eksik verilerin sayısını kontrol ettim.
-3) Eksik verileri temizlemek için eksik değerleri "0" ile doldurdum.
+3) Az sayıda olan eksik verileri tamamlamak için değerleri "0" ile doldurdum.
 4) Veri içindeki fiyat, hız, verimlilik, menzil gibi sayısal değerleri uygun bir formata dönüştürdüm.
 
 ## Veri Görselleştirme:
